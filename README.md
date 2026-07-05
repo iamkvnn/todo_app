@@ -4,6 +4,10 @@ Hệ thống quản lý công việc (Todo App) đơn giản và chuyên nghiệ
 
 ---
 
+## Live Demo
+* **Backend API**: http://165.22.250.47:8080
+* **Frontend UI**: http://165.22.250.47:5173
+
 ## 📂 Cấu Trúc Tổng Quan Dự Án
 
 Thư mục gốc của dự án bao gồm hai thành phần chính độc lập:
@@ -41,6 +45,11 @@ todo-app/
 ---
 
 ## 🚀 Cách Khởi Chạy Dự Án
+
+```bash
+git clone https://github.com/iamkvnn/todo_app.git
+cd todo_app
+```
 
 ### Cách 1: Chạy Nhanh Bằng Docker Compose (Khuyến Nghị)
 
